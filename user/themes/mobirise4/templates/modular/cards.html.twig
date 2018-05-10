@@ -1,0 +1,37 @@
+<section class="features3  mbr-parallax-background" style="background-image: url({{ page.media.images[page.header.background_image].url }})">
+
+
+    <div class="mbr-overlay" style="opacity: {{ page.header.opacity }}; background-color:{{ page.header.background_color }};">
+    </div>
+
+        <div class="container" style="z-index: 2;">
+            <div class="media-container-row" style="-webkit-flex-wrap: wrap;-ms-flex-wrap: wrap;flex-wrap:wrap;">
+
+                {% set options = { 'limit': 5} %}
+                {% set my_collection = page.header.cards|slice(0, 8) %}
+                {% set c = my_collection|length %}
+                {% for card in my_collection %}
+                    <div class="card p-3 col-12 col-md-6 col-lg-3">
+                        <div class="card-wrapper">
+                            <div class="card-img">
+                                <img src="{{ page.media.images[card.image].url }}">
+                            </div>
+                            <div class="card-box">
+                                <h4 class="card-title mbr-fonts-style  align-center">
+                                    <a href="{{ card.link }}">{{ card.heading }}</a>
+                                </h4>
+                                <p class="mbr-text mbr-fonts-style  ">
+                                    {{ card.description }}
+                                </p>
+                            </div>
+                            <div class="mbr-section-btn text-center">
+
+                            </div>
+                        </div>
+                    </div>
+
+                {% endfor %}
+
+            </div>
+        </div>
+    </section>
