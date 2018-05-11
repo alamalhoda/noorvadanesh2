@@ -1,17 +1,22 @@
 ---
 title: Blog
+menu: بلاگ
 blog_url: blog
-menu: Blog
-sitemap:
-    changefreq: monthly
-    priority: 1.03
+show_sidebar: true
+show_breadcrumbs: true
+show_pagination: true
 content:
-    items: '@self.children'
+    items:
+        - '@self.children'
+    limit: 5
     order:
         by: date
         dir: desc
-    limit: 5
     pagination: true
+    url_taxonomy_filters: true
+sitemap:
+    changefreq: monthly
+    priority: 1.03
 feed:
     description: 'Sample Blog Description'
     limit: 10
