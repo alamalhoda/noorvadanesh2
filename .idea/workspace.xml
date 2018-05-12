@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37073bdd-3ea0-46d8-a9e1-0b58cfdd5695" name="Default" comment="blog count 10 --&gt; 5">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/grav-plugin.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/blueprints/master-localhost.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/config/master-localhost.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/00cbaeb5180b7c7813bb5e714a46fb4b.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/0275c0f1484f45155771b0cb91d7e478.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/03afb775f22a8ee932d91f9af97dda27.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/03b26cc1a98468d06f26dbe706a11f6f.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/043125c6f7c423fbef1257e08f74f522.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/062249916a5cedbb1957c8c4556718f0.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/07f728ec852743cc6ddb5ba3f79cf251.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/0924146e13eb2a3e9238b291f47eb3a6.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/099e8fb0204c8e8971865a6c4080cc04.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/0c2409ccf0de2b0a05e9634334473580.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/0c4f67cef340ea492e5918f5b6a6ef0f.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/0df6e69847511b31857f0b8cb0352fdc.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/0f2a7a81155c939e99a6a07e5e5bd52f.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/1018dcca8012a765b406f2f006688a98.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/141109797d8a7b5518eafbae2ceaa3de.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/145fe47c53b8b2df886fb574e5df0d46.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/1743560bd696b139bd40a6b9f6ff539c.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/19ac78fc9cd9159d6a4afee5689c1362.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/1acdc26ccb3e1e6dd52b967353731c24.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/1c2d1fbbe92b974e4483dcc429f32cbd.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/1eaa29ac5350d2ca6ac0e8a06536fd6e.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/1fbc1c0a41dcbf4a83b76eea96fa4cdf.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/221ee8e8c653eaa71a2d8acc76d80901.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/23690484c669d33bf060bd7bfd05ac47.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/241741b763e49a1ebec6dcc1c0520606.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/26e6a7818044b37d480e4a835d6bc824.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/28f91b594bc05dcd23a572810a271c0c.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/2ce675a8f54fc60980eda7b24aaee16d.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/3143b3889be3362b6b7cd1064033bc8c.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/343898c76fbea67c147c7b56b63b9571.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/348c83d83e893ca1f8da9a87899f3b9c.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/35114e7625c75b7d33a8a08b07d29c50.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/3992dee38169765369ef6e6630983b20.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/3c7ce94b460884059c5b1bae1670b38a.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/3d9fe23c968157217c9304df1961e797.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/457a14f5cd370b3b260b84afef09b795.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/485ec885462e0a566d900240958d3565.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/4b72d6efc49c646385ba211e401e7dd0.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/4ef5b08be98a0fb528327be9a7ba7a7f.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/4f58fef5f41d4fd18b4a479d2c2309c9.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/4f62ae1b26dbe4922162d3638af28b90.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/53ec59c210220888d839c52b3db15415.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/544cad47c2485fef0a481061177621c9.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/553d799ec5ad06615435943df57c76d6.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/59d57d1194c7b4373f72a2fe4046279a.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/5c25f7ddf77feac9d3c412e7e52e0953.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/5c38f3bb6183d71f360eb6dbb153e751.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/61835b58d2ba47ed680323211f912c9f.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/618d9904c80b3c8590bc70869c0858b5.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/629b09cf0e7bdafcc8cd8564587a6ae5.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/66152720ea316539f9478b821ec89747.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/67134dfbd8eab5af553e482f9bc0522f.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/67e213490296647327bde85335a08439.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/68464f81aff289c1523538490753b2aa.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/6955928d477d1ef628ce887d51bde4ab.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/69ddf703be825a3ed07e217c508451ac.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/6c66835766b09983f275473966c9c9ec.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/6d13f20c54cf2e7346b86b6eefe24dda.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/757e8ac5d2ee6ed16d9f200097574cba.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/76a15866dc2ff4babb3722166d5e9456.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/774129fe70eb103362adc3f865f190a9.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/7a49789632b2093bac2b9c000857089f.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/7e27275624187cf49509427a23e9e794.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/7ec952ee422825cafa4a724b375fe596.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/8007f46ecb554c7a729950f2bfe640ae.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/82acfd1a68e9a4a858362b766eed69dc.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/898ce6e6c22f2388980a6f90f19f6df7.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/8dc3c3ad9328fcd19de77d25eb535518.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/8eb2780deb7d4b1293e4b5eac7fdb584.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/8fbb6c85a2eab097e3540cfd4926c724.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/912f213f84bf05d79a634b0a01ab4251.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/92801134410bd00b18433e393016fe7e.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/93391f0b926accb178f71b29bb45e41c.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/959ce1b5e85e030cb97ef97d1ec2c09f.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/967a0380ead15718da6748b043db3513.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/96b816544e9112ebe8f6ccbaba6dfe60.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/973ac1562a0b903d17d8936dbc959f55.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/9819ddf9d6e8233b83a8fae343944c6a.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/98378d12c05207dbde3a4b7635a8a6c6.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/984b2cf35be4b55ffb656c12e381bc93.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/99bb0c755669a3eddbc8fa08d3724878.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/9c5d72f48b3a101b7e9f6abd629cf75e.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/9db8f5b9191058e145741fc4c3b05e9a.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/9f2fbb0eeb108cfca0840c23197c3c5a.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/a3934cb9c28a2ef83d71c5374d5b6524.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/a5613669ec553cf15189740b50af11da.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/a8d0bb3277ede28e3299c4b474e08007.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/a8d41a2d62d2270dc05b4f9d7fb1fa3f.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/a9a47bd10cb73cad2d7646d3097343bb.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/aa82326ecac2729338c28cef56167d9f.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/aaf2057cc89eb8bb510bf36e010e4bfa.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/ae8f66211d2e8b674ec2e555a5ec34c9.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/aeeb09fd15c57425836e482c3eb64d40.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/aeec138c3a1261fbcaa3b404c28df863.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/b0eefc9dca19a1a2f40a5e936dfd561e.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/c5ba291ee19eb80b65b6b47af6fb9912.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/c6ea34bbeef9c06f96b391e99c3bd101.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/c91802a4835b71c3e048923783c54ed4.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/cc6f2b340de4f2c5be38b6de3ea2d556.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/ce12608571a319c43728e42c6dc273c8.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/d0f85be896357532ac7faf0c7e21cc07.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/d1432bb5d2c5376a5edcfefb7e73d8b7.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/d59ea14b93c12bed80ed0d05d1e6b226.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/d6250542c8fa6384f7e9494802ca716d.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/d740bead1580a7920fc72bee7f5aeb9d.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/dd46e1088e0857aa8345cadc568fdaf4.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/e12a2aff31e4d1414d0fd6f3e43faa33.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/e49e32bc28dcbf6fca4b1c10dc9a0cc1.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/e54d7f9c03a04faee4672bada18c197b.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/e62af55b96c40565830bf134b027b9b1.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/ed4e235429f8ff3f2d28d656f02dc513.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/f24e9b8f940f8e290af2ce77d350c33f.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/f250791e4e22c23e0b381400a0f0a746.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/f2638c650c72fb310305fcf4f96f74b4.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/f3a3aff5b68869e9fa2e6ef28ed81592.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/f45f4b93632a39f6b482d3144f16dfb4.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/f5be6da6bb71f1e6f95070f5e344e914.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/f74fa3b9cdae6936d735eb272879d7ad.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/f8920c892cf82f1728980d0e7e36f256.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/f8f2aa906f93abddc92e0e1b7b12956d.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/f9b1b7d1cc0d3883994f239747cef5d7.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/f9cc0f2d9b967ce90f4b9df65461a624.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/files/ff85ffa7283682ae0708771e5f7c2a5e.yaml.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/compiled/languages/master-localhost.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/02/0266b73c578a9634358290f64d5d554e3b22d8b163c22ecf12513d2d519831e5.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/0a/0a5216eb880744e76eab59815aa5bb365f05e2fccd9596d06f0327caef81d758.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/0b/0bd6495cc9176b7aa6692fa5645bcd30fd5bdf02542cea37d70b71dd80a67a88.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/12/12958e077cd817c045beeee843c15710c721f6afa4b1d098edbae7bb80df364d.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/19/192d8b62246149a3abe18161a1db83b92827a68acf42d8c0bb5fa34181fb5c78.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/1f/1f871f34a6acd16b37fd1ac3ec4013a9f7c59e7bbafe465422c4dcf7b4cda3f2.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/27/271f4bc8ba6d94a897264978ad173795416c8bf9d5ac3832d53d5a42b75bbbfa.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/27/27e421b552d1e19f2e0d968be97357e4e33358cc6d2377516db8bb2113ed0973.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/28/2849168eaf8654b358ff959b750ff2bfa687024a6a74d57da068a6efde410360.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/29/298abb70c0b2d769b35372642219273602108c6a6e2014ebafaeb433cca905b9.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/3a/3a487200f1c081179f8b22e5bc9bee8c4a438fbca1f99c55cc47f3cdcdf1d0cd.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/3a/3acbef1ebefbf5e3bca0aa1a284a6e639c569998d8605e33361795dd31b39b77.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/47/479d5161389ebe20536c215f141866a7d23059933751da9af72e742ed6176cb4.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/47/47afa29a63d75c83b1dbf30ffcb2d1a0902a204e9007cec55b635fe7f6cfe3be.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/4a/4ab045641dc3ccb95edb2f0dd69f5584f375c27dc4c1963f940a5cf3534cf3d8.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/51/5126d2a8d5e6eff148eaeb78607aaeeef8bcec801f1200c030fb3860f1cd9113.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/54/54417c37bd4734caee3c1bc704f6cb5dd0fd86df6e24a41f5838e448b61ef8d9.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/55/5523032e8a5cecf2df64cc1537a6087763473c17a25d1c69ee5fb561342fd2ed.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/58/5852d3dad51765e22a27f34b22c7ac4c76a6253740ed1bcd09af354e179af113.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/65/65b6fdaf2070768c67da4955f1208afa5d9d449808b3eab8721cefb9851139e8.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/6a/6a6876578ced77ed9715343252e98b7266b5e55e970766cb6e2307f278a45afb.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/6c/6cdd92e20941192dbd5ccedf7ee2dbf39bcfa93f92a6cd7291c736456dd8a0f2.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/77/779243f45608e16c51413a5880382d5ef8b86384a9ed56e72ce407fb67efe7b5.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/7f/7f2b70e6ae21fdfeecccb034ad06043bf00d72448c6c8e4382e5c3e6ae2026c5.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/81/814455512c69b0a073d9c1126459cf6914c9eb454a35b97db3deb5fac0c303e5.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/88/8864a0859afec2b8f5a51f8ee503334d7c8491ecb4c731d718f8a813c86cdb37.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/93/93626384ea75c3b9f66173e5bcade83a8a06f9ca6579dba70cc5f1430c76c085.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/b3/b34375067776babfc83e750ed9c25792c14596ee470656094a6cf2b23daacae6.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/b6/b618106b0d64facd634fb9c241bb2ff43ebdc207a0938b0feb36bb3ed895a517.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/c9/c99bf7bab32b26022c31ad44c981250443eb672743190f08348747a8d6484f29.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/ce/ce1f4fcb4e46d45191b147e8963e38f2fce1bd8fe2a089cabd000436e73b72f6.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/dd/dd4cb56a027e05ed245eb2e352b1188dbcd9fc3294e068752bf8e6e4b237dc86.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/e9/e95df969f1fdd2798017c968c84a3ea783f97e8f6d7c1dd87f339f210ff7c9fa.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/ee/ee45da8cc1201c64a4982d941f4b2fc589251a7691e110610321e53b9c783cc2.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/cache/twig/f6/f69c0dfd7f927343f7acc8929acfc660d6d034c8f484088bae51ebdcf116f3c8.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/logs/popularity/daily.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/logs/popularity/monthly.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/logs/popularity/totals.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/logs/popularity/visitors.json" />
+      <change beforePath="$PROJECT_DIR$/user/config/plugins/git-sync.yaml" afterPath="$PROJECT_DIR$/user/config/plugins/git-sync.yaml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>vazir</find>
+      <find>ira</find>
+      <find>$excerpt['element']['attributes']['href'];</find>
+      <find>$case_insensitive = Grav::instance()['config']-&gt;get('system.force_lowercase_urls');</find>
+      <find>strtolower</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/user/themes/mobirise4</dir>
+      <dir>$PROJECT_DIR$/user/pages</dir>
+      <dir>$PROJECT_DIR$/user/themes/mobirise4/templates</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/user/pages/01.home/default.md" />
+        <option value="$PROJECT_DIR$/user/config/system.yaml" />
+        <option value="$PROJECT_DIR$/user/themes/mobirise4/templates/modular/slider.html.twig" />
+        <option value="$PROJECT_DIR$/user/themes/mobirise4/templates/blog.html.twig" />
+        <option value="$PROJECT_DIR$/user/pages/02.blog/blog.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1680" />
+    <option name="height" value="974" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="noorvadanesh2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="noorvadanesh2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="noorvadanesh2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="noorvadanesh2" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="noorvadanesh2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="noorvadanesh2" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="noorvadanesh2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="noorvadanesh2" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+              <item name="git-sync" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="noorvadanesh2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="noorvadanesh2" type="462c0819:PsiDirectoryNode" />
+              <item name="webserver-configs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Downloads/android-sdk-linux" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/user/themes/mobirise4/templates/modular" />
+      <recent name="$PROJECT_DIR$/user/pages" />
+      <recent name="$PROJECT_DIR$/user/themes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37073bdd-3ea0-46d8-a9e1-0b58cfdd5695" name="Default" comment="" />
+      <created>1525923497854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525923497854</updated>
+    </task>
+    <task id="LOCAL-00001" summary="delete ## installation successful... on home">
+      <created>1525923623643</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525923623643</updated>
+    </task>
+    <task id="LOCAL-00002" summary="moborose4 theme added">
+      <created>1525924096775</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525924096775</updated>
+    </task>
+    <task id="LOCAL-00003" summary="my pages added">
+      <created>1525924931326</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525924931326</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1news , recenntblogpost added">
+      <created>1525925431821</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525925431821</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rename folders to english name">
+      <created>1525925702242</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1525925702242</updated>
+    </task>
+    <task id="LOCAL-00006" summary="chnage theme to mobirise4">
+      <created>1525925851800</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1525925851800</updated>
+    </task>
+    <task id="LOCAL-00007" summary="vazir font added">
+      <created>1525961646627</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1525961646627</updated>
+    </task>
+    <task id="LOCAL-00008" summary="iran-538-2000x1331.jpg is removed">
+      <created>1525965506257</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1525965506257</updated>
+    </task>
+    <task id="LOCAL-00009" summary="..">
+      <created>1525966853951</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1525966853951</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Revert &quot;..&quot;&#10;&#10;This reverts commit 85fdb84">
+      <created>1525967026296</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1525967026296</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Revert &quot;iran-538-2000x1331.jpg is removed&quot;&#10;&#10;This reverts commit 59a3251">
+      <created>1525967048132</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1525967048132</updated>
+    </task>
+    <task id="LOCAL-00012" summary="...">
+      <created>1525967683587</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1525967683587</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Revert &quot;iran-538-2000x1331.jpg is removed&quot;&#10;&#10;This reverts commit 59a3251">
+      <created>1525967925812</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1525967925812</updated>
+    </task>
+    <task id="LOCAL-00014" summary="new 1">
+      <created>1525973216694</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1525973216694</updated>
+    </task>
+    <task id="LOCAL-00015" summary="new 2">
+      <created>1525973744629</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1525973744629</updated>
+    </task>
+    <task id="LOCAL-00016" summary="new 1">
+      <created>1525973851255</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1525973851256</updated>
+    </task>
+    <task id="LOCAL-00017" summary="pages added">
+      <created>1525974062826</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1525974062826</updated>
+    </task>
+    <task id="LOCAL-00018" summary="home - &gt; خانه">
+      <created>1525975796306</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1525975796306</updated>
+    </task>
+    <task id="LOCAL-00019" summary="blog count 10 --&gt; 5">
+      <created>1525978047615</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1525978047615</updated>
+    </task>
+    <task id="LOCAL-00020" summary="git-sync added&#10;git-sync enabled: false">
+      <created>1525980386642</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1525980386642</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1680" height="974" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Grav" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992035" sideWeight="0.5021097" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6109215" sideWeight="0.4978903" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <MESSAGE value="delete ## installation successful... on home" />
+    <MESSAGE value="moborose4 theme added" />
+    <MESSAGE value="my pages added" />
+    <MESSAGE value="1news , recenntblogpost added" />
+    <MESSAGE value="rename folders to english name" />
+    <MESSAGE value="chnage theme to mobirise4" />
+    <MESSAGE value="vazir font added" />
+    <MESSAGE value="iran-538-2000x1331.jpg is removed" />
+    <MESSAGE value=".." />
+    <MESSAGE value="Revert &quot;..&quot;&#10;&#10;This reverts commit 85fdb84" />
+    <MESSAGE value="..." />
+    <MESSAGE value="Revert &quot;iran-538-2000x1331.jpg is removed&quot;&#10;&#10;This reverts commit 59a3251" />
+    <MESSAGE value="new 2" />
+    <MESSAGE value="new 1" />
+    <MESSAGE value="pages added" />
+    <MESSAGE value="home - &gt; خانه" />
+    <MESSAGE value="blog count 10 --&gt; 5" />
+    <MESSAGE value="git-sync added&#10;git-sync enabled: false" />
+    <option name="LAST_COMMIT_MESSAGE" value="git-sync added&#10;git-sync enabled: false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/blog.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/default.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/item.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/config/site.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/modular/1news.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="57" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/config/system.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/blog.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/default.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/item.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/config/site.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/modular/1news.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="57" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/config/system.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/blog.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/default.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/modular/1news.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="57" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/item.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/js/site.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/modular/recentblogpost.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="29" lean-forward="false" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/pages/01.home/default.md" />
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/assets/mobirise/css/mbr-additional.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="11" lean-forward="false" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/modular/text.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/modular/slider.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="59" lean-forward="false" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/pages/04.modular/08._team/cards.md" />
+    <entry file="file://$PROJECT_DIR$/noorvadaneshONheroku.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/modular.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/src/Grav/Common/Page/Page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="1501" column="36" lean-forward="false" selection-start-line="1501" selection-start-column="36" selection-end-line="1501" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/src/Grav/Common/Helpers/Excerpts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="51" lean-forward="false" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/modular/1news.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="57" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/blog.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="30" lean-forward="false" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/default.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/themes/mobirise4/templates/item.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/config/site.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/config/system.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/pages/01.Home/modular.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/pages/02.blog/blog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/03.test/default.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/02.blog/blog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user/plugins/git-sync/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 8 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
